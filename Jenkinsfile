@@ -1,4 +1,4 @@
-def userName = "samnelson@carfax.com"
+def userName = "samnelson"
 
 def gitCommit() {
     sh "git rev-parse HEAD > GIT_COMMIT"
