@@ -1,5 +1,5 @@
 {
-  "id": "/nginx-ssk2",
+  "id": "/nginx-ssk2-togapi",
   "cpus": 1,
   "mem": 128,
   "instances": 1,
